@@ -11,7 +11,7 @@ import java.util.Properties;
 
 public class Base {
 
-//    This is my base method
+
     public static Properties prop;
     public static WebDriver driver;
 
